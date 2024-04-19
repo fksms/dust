@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/bootandy/dust/actions/workflows/CICD.yml/badge.svg)](https://github.com/bootandy/dust/actions)
+[![Release](https://github.com/fksms/dust/actions/workflows/release.yml/badge.svg)](https://github.com/fksms/dust/actions/workflows/release.yml)
 
 
 # Dust
